@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+
+  <head>
+    <meta charset="utf-8">
+    <title>Teehee moment</title>
+  </head>
+  <body>
+
+
+  <form>
+      Add an Employee<br>
+        First Name:<input type="text" name="first_name" value="testFirst"><br>
+        Last Name:<input type="text" name="last_name" value="testLast"><br>
+        <select id="dept_select">
+          <option value="it">IT</option>
+          <option value="student">Student</option>
+          <option value="professor">Professor</option>
+        </select> <br>
+  <button type="button" onclick="createEmployee()">Submit</button>
+
+<div>
+  <b>
+    <p id='browser'>Getting Browser...</p>
+  </b>
+</div>
+  </form>
+<b>
+  <p id="Employee Added"></p>
+</b>
+  <div id="name"></div><br>
+  <div id="department"></div><br>
+  <div id="emp_id"></div><br>
+  <div id="hire_date"></div><br>
+  <div id="total_employees"></div><br>
+    </body>
+    <script src="front_scripts.js"></script>
+</html>
