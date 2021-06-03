@@ -11,6 +11,7 @@
 
 [<img align="left" alt="oalhinnawi | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oalhinnawi)](https://github.com/oalhinnawi/github-readme-stats)
 
 
 ### Readme template credit: https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
