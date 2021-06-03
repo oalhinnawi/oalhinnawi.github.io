@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Omar Alhinnawi's homepage!
 description: Just a little homestead that has all my projects!
+- name: Ultimate Portfolio Maker
+  uses: kaustubhgupta/PortfolioFy@v3.1
